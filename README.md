@@ -1,5 +1,7 @@
 
-# 🚀 Daily Learning Journey - 2026
+Learning Logs
+
+## 📌 Day 1 - 23 # 🚀 Daily Learning Journey - 2026
 
 Welcome to my daily learning repository!  
 This repository tracks my daily progress in programming, AI/ML, development, problem-solving, and engineering concepts.
@@ -15,9 +17,7 @@ Hi, I'm **Ramu Tolamatti**, an Engineering student passionate about:
 
 ---
 
-# 📅 Daily Learning Logs
-
-## 📌 Day 1 - 23 May 2026
+# 📅 Daily May 2026
 
 ### ✅ Today I Learned
 - How GitHub contribution graph works
@@ -74,7 +74,30 @@ A smart citizen assistance platform providing:
 | 23-05-2026 | GitHub Contributions | ✅ |
 | 24-05-2026 | To Be Updated | ⏳ |
 
----
+# Day 24 - GitHub Learning Log
+
+## Date: 24 May 2026
+
+Today I learned:
+- How to solve coding problems and upload solutions to GitHub.
+- How to organize daily LeetCode practice in a repository.
+- How to write clean Python solutions with proper function structure.
+- How GitHub commits help maintain my contribution graph.
+- How daily consistency improves my coding profile.
+
+## Problems Practiced Today:
+- Reverse Words in a String
+- Fraction to Recurring Decimal
+- Excel Sheet Column Title
+- Excel Sheet Column Number
+- Two Sum
+
+## Key Takeaway:
+Small daily contributions make my GitHub profile stronger and show consistent learning.
+
+## Next Goal:
+Continue solving DSA problems and update my GitHub learning log every day.
+
 
 ## 🌱 Quote of the Day
 > “Small daily improvements lead to massive success.”
