@@ -115,4 +115,4 @@ Today I learned:
 - Improved logic building and coding skills
 
 Next goal:
-- Solve more coding problems and stay consistent on GitHub
+- Solve more coding problems and stay consistent on GitHub.
