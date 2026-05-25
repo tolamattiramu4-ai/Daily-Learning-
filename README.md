@@ -74,7 +74,7 @@ A smart citizen assistance platform providing:
 | 23-05-2026 | GitHub Contributions | ✅ |
 | 24-05-2026 | To Be Updated | ⏳ |
 
-# Day 24 - GitHub Learning Log
+# Day 2- GitHub Learning Log
 
 ## Date: 24 May 2026
 
@@ -105,3 +105,14 @@ Continue solving DSA problems and update my GitHub learning log every day.
 ---
 
 ⭐ Stay consistent. Learn something new every day.
+
+## Day 3 – 25 May 2026
+
+Today I learned:
+- Solved Python DSA problems on LeetCode
+- Practiced `intToRoman()` problem
+- Learned how to implement `divide()` without using multiplication, division, or modulo operators
+- Improved logic building and coding skills
+
+Next goal:
+- Solve more coding problems and stay consistent on GitHub
