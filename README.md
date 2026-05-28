@@ -80,7 +80,9 @@ Day 6 – GitHub Learning | 28 May 2026
 Today I learned:
 
 Learned how to create and manage branches in GitHub for separate feature development
+
 Practiced making commits with clear and meaningful commit messages
+
 Explored how to create and merge a Pull Request (PR) in GitHub
 
 Next Goal:
