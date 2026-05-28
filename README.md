@@ -85,6 +85,7 @@ Practiced making commits with clear and meaningful commit messages
 
 Explored how to create and merge a Pull Request (PR) in GitHub
 
+
 Next Goal:
 Practice GitHub workflows and continue daily learning.
 
